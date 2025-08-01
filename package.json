@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@shadcn/ui": "^0.0.4",
+    "date-fns": "^4.1.0",
+    "react-day-picker": "^9.8.1"
+  }
+}
